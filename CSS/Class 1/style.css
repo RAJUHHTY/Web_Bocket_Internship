@@ -1,0 +1,18 @@
+
+*{
+    background-color: aquamarine;
+    color: rgb(108, 8, 201);
+}
+.container p{
+    font-size: 30px;
+    color: cadetblue;
+    color: red;
+}
+.hero{
+    background-image: url("coding\ image.jpg");
+    height: 800px;
+    width: 1342px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
